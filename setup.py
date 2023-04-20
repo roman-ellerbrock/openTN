@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='OpenTN',
+    name='openTN',
     version='0.1.0',
     packages=find_packages(),
-    url='https://github.com/roman-ellerbrock/OpenTN',
+    url='https://github.com/roman-ellerbrock/openTN',
     license='MIT',
     author='Roman Ellerbrock',
     author_email='romanellerbrock@gmail.com',
@@ -21,5 +21,6 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
     ],
+    
 )
 
